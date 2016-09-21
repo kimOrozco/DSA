@@ -1,9 +1,9 @@
-package randomnumber;
+package SumAveMax;
 
 import java.util.Scanner;
 import java.util.Random;
 
-public class RandomNumber {
+public class SumAveMax {
 	static int[] array;
 	static int ArraySize;
 	static int sum;
