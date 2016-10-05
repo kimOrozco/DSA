@@ -12,16 +12,12 @@ public class BinarySearch {
      
      Scanner input = new Scanner(System.in);
      Random  rand = new Random();
-
-    
-
-     System.out.print("Enter number of elements:");
-  
+          
+     System.out.print("Enter number of elements:"); 
      size = input.nextInt();
      array = new int [size];
      System.out.println();
-     System.out.print( size + " Random number to be generated  ");
-         
+     System.out.print( size + " Random number to be generated  ");   
      System.out.println();
      
          for ( int x = 0; x< size; x++){
